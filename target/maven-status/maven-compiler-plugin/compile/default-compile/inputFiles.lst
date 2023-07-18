@@ -1,0 +1,9 @@
+/app/src/main/java/com/ingesoft/carro/config/RedisConfig.java
+/app/src/main/java/com/ingesoft/carro/controller/CartController.java
+/app/src/main/java/com/ingesoft/carro/service/impl/RedisService.java
+/app/src/main/java/com/ingesoft/carro/service/interfaces/IdGeneratorService.java
+/app/src/main/java/com/ingesoft/carro/service/impl/CartServiceImpl.java
+/app/src/main/java/com/ingesoft/carro/model/CartItem.java
+/app/src/main/java/com/ingesoft/carro/model/CartModel.java
+/app/src/main/java/com/ingesoft/carro/CarroApplication.java
+/app/src/main/java/com/ingesoft/carro/service/interfaces/CartService.java
